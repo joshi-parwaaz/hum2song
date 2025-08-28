@@ -1,0 +1,15 @@
+yt-dlp
+librosa
+pydub
+numpy
+scipy
+sounddevice
+ffmpeg-python
+matplotlib
+tqdm
+scikit-learn
+imagehash
+Pillow
+streamlit
+streamlit-webrtc
+av
